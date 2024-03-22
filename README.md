@@ -5,3 +5,4 @@
 ![Screenshot (9)](https://github.com/Chetan0914/interactive-rating-component-main/assets/123154331/566ff5d5-2352-4316-b17d-e466380b9de5)
 ![Screenshot (10)](https://github.com/Chetan0914/interactive-rating-component-main/assets/123154331/8c825dbf-c4b5-42b5-bccc-866f1fd7f66a)
 ![Screenshot (11)](https://github.com/Chetan0914/interactive-rating-component-main/assets/123154331/3f952871-966c-407f-8a81-07f3a0373d45)
+https://chetan0914.github.io/interactive-rating-component-main/
